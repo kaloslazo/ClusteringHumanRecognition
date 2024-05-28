@@ -1,0 +1,6 @@
+# Exclude videos folder (14GB, 1GB, 1GB)
+/videos/
+.env
+.venv
+.trash
+data/s3d
